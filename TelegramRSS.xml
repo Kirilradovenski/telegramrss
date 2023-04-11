@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>My Telegram Channel RSS Feed</title>
+  <link>https://telegram.org/</link>
+  <description>This is an RSS feed for my private Telegram channel</description>
+  <language>en-us</language>
+  <lastBuildDate>Sun, 11 Apr 2023 00:00:00 GMT</lastBuildDate>
+  <item>
+    <title>Post title</title>
+    <description>Post description</description>
+    <pubDate>Sun, 11 Apr 2023 12:00:00 GMT</pubDate>
+<link>https://telegram.org/</link>
+<guid>unique-id-for-post</guid>
+  </item>
+  <item>
+    <title>Another post title</title>
+    <description>Another post description</description>
+    <pubDate>Sun, 10 Apr 2023 12:00:00 GMT</pubDate>
+    <link>https://telegram.org/</link>
+    <guid>unique-id-for-post</guid>
+  </item>
+</channel>
+</rss>
